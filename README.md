@@ -33,3 +33,35 @@ This project collects and analyzes user reviews to understand customer satisfact
 - Customer Support
 
 ## 🛠️ Project Structure
+
+  bank-reviews-analysis/
+├── notebooks/ # Jupyter notebooks for analysis
+├── src/ # Python source code
+├── data/ # CSV files with review data
+├── scripts/ # Utility scripts
+└── requirements.txt # Python dependencies
+
+
+## 🚀 Quick Start
+
+
+# 1. Clone repository
+git clone https://github.com/YOUR_USERNAME/bank-reviews-analysis.git
+cd bank-reviews-analysis
+
+# 2. Setup environment
+python -m venv bank_env
+source bank_env/bin/activate
+pip install -r requirements.txt
+
+# 3. Run analysis
+jupyter notebook
+
+📋 Project Progress
+✅ Task 1: Data Collection & Cleaning
+✅ Task 2: Sentiment & Thematic Analysis
+🔄 Task 3: Database Storage (Next)
+⏳ Task 4: Insights & Reporting
+
+👨‍💻 Author
+Henok Mulugeta - 10 Academy AI Mastery Program
