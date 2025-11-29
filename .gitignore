@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+bank_env/
+
+# Database
+*.db
+*.sqlite3
+
+# Data files (we'll keep these for now, but can ignore later)
+# *.csv
+# *.xlsx
+# *.pkl
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.terminal/
+.idea/
+*.swp
+*.swo
