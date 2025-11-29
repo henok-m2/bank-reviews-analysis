@@ -46,7 +46,7 @@ This project collects and analyzes user reviews to understand customer satisfact
 
 
 # 1. Clone repository
-git clone https://github.com/YOUR_USERNAME/bank-reviews-analysis.git
+git clone https://github.com/henok_m2/bank-reviews-analysis.git
 cd bank-reviews-analysis
 
 # 2. Setup environment
